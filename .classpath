@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/pim/Desktop/OS-War development/Server/deps/mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pim/Desktop/spring-core-5.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pim/Desktop/spring-beans-3.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pim/Desktop/spring-context-5.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pim/Desktop/spring-web-5.1.6.RELEASE.jar" sourcepath="C:/Users/pim/AppData/Local/Temp/.org.sf.feeling.decompiler1561892432083/source/spring-web-5.1.6.RELEASE-sources-1562004893818.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pim/Desktop/selenium jars/2captcha_api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/pim/Documents/commons-lang3-3.8.1.jar" sourcepath="C:/Users/pim/AppData/Local/Temp/.org.sf.feeling.decompiler1557004032238/source/commons-lang3-3.8.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
